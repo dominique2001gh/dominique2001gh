@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dominique2001gh
-- 👀 I’m interested in ...Data Science with python and SQL
+- 👀 I I’m interested in ...Data Science with python and SQL
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ..Data science.
 - 📫 How to reach me ...dominique2001gh@mail.com
